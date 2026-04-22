@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  margin: 20px;
+  padding: 2rem;
+  background: rgb(202, 202, 214);
+  
+}
+
+button{
+  margin-top: 20px;
+  padding: 2rem;
+}

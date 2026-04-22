@@ -12,10 +12,10 @@ setCounter(counter +1);
   
   return (
     < >
+      <h2>Welcome to React World</h2>
       <div>{counter}</div>
       <button onClick={increase}>+</button>
       <button onClick={()=> setCounter(counter -1)}>-</button>
-  
     </>
   );
 };
